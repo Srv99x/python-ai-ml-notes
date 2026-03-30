@@ -4,6 +4,7 @@ Structured self-study notes covering core Python through ML workflows.
 Built as a personal reference during B.Tech CSE (AI & Data Science), Sem 2.
 
 ## Topics Covered
+- Loops , Variables etc
 - Python Basics → OOP
 - NumPy, Pandas, Matplotlib/Seaborn
 - Math for ML
